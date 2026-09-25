@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.naiyunss.com/sitemap.xml
